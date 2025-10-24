@@ -1,4 +1,3 @@
-# CS104-assignment-2
 <!DOCTYPE html>
 <html lang="en">
     <head>
